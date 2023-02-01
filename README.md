@@ -21,7 +21,8 @@
 
 ## Samples 示例
 
-* [Hello World](samples/HelloWorld)
+* [模型生成DDL](samples/jdialects-demos/src/test/java/com/waylau/jdialects/CreateDDLTest.java)
+* [数据库生成实体源码、模型](samples/jdialects-demos/src/test/java/com/waylau/jdialects/TableModelUtilsTest.java)
 * 未完待续...
 
 

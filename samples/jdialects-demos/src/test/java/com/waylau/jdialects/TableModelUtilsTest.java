@@ -70,7 +70,6 @@ class TableModelUtilsTest {
         try {
             conn = ds.getConnection();
 
-
             for (String ddl : ddlArray) {
                 execute(conn, ddl);
             }
