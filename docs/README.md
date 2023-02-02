@@ -8,16 +8,13 @@
 
 《跟老卫学jDialects开发》是一本 [jDialects](https://gitee.com/drinkjava2/jdialects) 应用开发的开源学习教程，主要介绍如何从0开始开发 jDialects 应用。图文并茂，并通过大量实例带你走近 jDialects 的世界！
 
-jDialects是一个Java数据库方言工具，支持80多种数据库方言，具有分页、函数变换、类型变换、DDL生成、JPA注解解析等功能。
-
-本书业余时间所著，水平有限，难免疏漏，欢迎指正。
+本书业余时间所著，水平有限、时间紧张，难免疏漏，欢迎指正，
 
 
 
 ## Summary 目录
 
-* [简介](docs/introduction.md)
-* [配置、入门](docs/quick-start.md)
+* [jDialects配置、入门](docs/quick-start.md)
 * [数据库生成实体源码](docs/database-to-java-source.md)
 * [数据库生成模型](docs/database-to-model.md)
 * 未完待续...
