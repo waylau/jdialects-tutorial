@@ -58,7 +58,7 @@ void testDb2Models() {
 ```
 
 
-如果先在数据库里面创建了表结构user_t，比如执行以下方法：
+可以先在数据库里面创建了表结构user_t，比如执行以下方法：
 
 ```java
 void testToCreateDDL() throws SQLException {
